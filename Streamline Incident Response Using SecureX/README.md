@@ -1,4 +1,4 @@
-# Streamline-Incident-Response-Using-SecureX
+# Streamline Incident Response Using SecureX
 
 Simplify, automate, and streamline incident response by integrating Secure X, Service Now, WebEx, with Umbrella & Cloud Security Analytics.
 
