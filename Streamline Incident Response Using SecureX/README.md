@@ -29,10 +29,7 @@ Incident response procedures are detailed in the published [Amazon AWS Incident 
 [From Complex to Cohesive](https://www.cisco.com/c/en/us/products/collateral/security/white-paper-c11-744498.html)
 
 [Watch Brian Sak & Brennan Bouchard present at Devnet Create](https://www.youtube.com/watch?v=jGAC1RSKzMw)
-## Usage
 
-Show users how to use the code. Be specific.
-Use appropriate formatting when showing code snippets or command line output.
 
 ### Related Sandbox
 
@@ -45,7 +42,6 @@ Get Started with theses [SecureX Modules](https://developer.cisco.com/learning/t
 ## Solutions on Ecosystem Exchange
 
 More SecureX solutions on [Cisco Ecosystem Exchange here](https://developer.cisco.com/ecosystem/solutions/#key=securex)
-
 
 
 ## Author(s)
